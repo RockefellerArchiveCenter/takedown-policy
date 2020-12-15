@@ -1,9 +1,9 @@
-public:
+public: true
 type: "docs"
 category:
 tags:
 
-title:
+title: "Takedown Policy"
 description:
 pages:
-  - ["Documentation Title", "index"]
+  - ["Takedown Policy", "index"]
