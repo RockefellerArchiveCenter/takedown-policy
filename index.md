@@ -1,8 +1,7 @@
 ---
 layout: docs
-title:  "Documentation Title"
+title:  "Takedown Policy"
 ---
-Takedown Policy
 
 Digital collections hosted on the Rockefeller Archive Center’s web properties
 are intended to provide accurate and complete representations of historical
