@@ -1,8 +1,8 @@
 public: true
 type: "docs"
 category: "collection development and management"
-tags: "policy"
-
+tags:
+  - "policy"
 title: "Takedown Policy"
 description: Policy related to requirements and conditions for review and potential takedown of digital collections materials hosted on the Rockefeller Archive Center’s web properties.
 pages:
