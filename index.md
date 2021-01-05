@@ -22,7 +22,7 @@ archival record, it is unlikely that we will correct errors or inaccuracies
 present in original items; redact digital content or indices; or otherwise
 remove access to materials except in cases where there are legal concerns (for
 example, the presence of Health Insurance Portability and Accountability Act
-(HIPAA), General Data Protection Regulation (GDPR) or Family Educational Rights
-and Privacy Act (FERPA) protected information, significant risks to privacy (for
+(HIPAA), General Data Protection Regulation (GDPR), or Family Educational Rights
+and Privacy Act (FERPA) protected information), significant risks to privacy (for
 example, exposed Social Security numbers), or documented evidence of a clear and
 imminent threat to personal safety and well-being.
